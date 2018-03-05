@@ -4,7 +4,7 @@
 _by University of Washington_
 
 1. Machine Learning Foundations: A Case Study Approach [[__Completed__](https://www.coursera.org/account/accomplishments/certificate/T4BSXMHY9FK4)]
-2. Machine Learning: Regression
+2. Machine Learning: Regression [[__Completed__](https://www.coursera.org/account/accomplishments/certificate/RLJH74ZZAEAT)]
 3. Machine Learning: Classification
 4. Machine Learning: Clustering & Retrieval
 
