@@ -1,12 +1,12 @@
 
 
-## Machine-Learning-Specialization
+## Machine-Learning-Specialization [[__Completed__](https://www.coursera.org/account/accomplishments/specialization/certificate/ZUGAFYKCMQ79)]
 _by University of Washington_
 
 1. Machine Learning Foundations: A Case Study Approach [[__Completed__](https://www.coursera.org/account/accomplishments/certificate/T4BSXMHY9FK4)]
 2. Machine Learning: Regression [[__Completed__](https://www.coursera.org/account/accomplishments/certificate/RLJH74ZZAEAT)]
 3. Machine Learning: Classification [[__Completed__](https://www.coursera.org/account/accomplishments/certificate/WJ6AU43S8YUK)]
-4. Machine Learning: Clustering & Retrieval
+4. Machine Learning: Clustering & Retrieval [[__Completed__](https://www.coursera.org/account/accomplishments/certificate/RPSV54FU5VJY)]
 
 ## Advanced-Machine-Learning-Specialization
 _by National Research University Higher School of Economics_
