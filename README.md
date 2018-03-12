@@ -3,10 +3,10 @@
 ## Machine-Learning-Specialization [[__Completed__](https://www.coursera.org/account/accomplishments/specialization/certificate/ZUGAFYKCMQ79)]
 _by University of Washington_
 
-1. Machine Learning Foundations: A Case Study Approach [[__Completed__](https://www.coursera.org/account/accomplishments/certificate/T4BSXMHY9FK4)]
-2. Machine Learning: Regression [[__Completed__](https://www.coursera.org/account/accomplishments/certificate/RLJH74ZZAEAT)]
-3. Machine Learning: Classification [[__Completed__](https://www.coursera.org/account/accomplishments/certificate/WJ6AU43S8YUK)]
-4. Machine Learning: Clustering & Retrieval [[__Completed__](https://www.coursera.org/account/accomplishments/certificate/RPSV54FU5VJY)]
+1. Foundations: A Case Study Approach [[__Completed__](https://www.coursera.org/account/accomplishments/certificate/T4BSXMHY9FK4)]
+2. Regression [[__Completed__](https://www.coursera.org/account/accomplishments/certificate/RLJH74ZZAEAT)]
+3. Classification [[__Completed__](https://www.coursera.org/account/accomplishments/certificate/WJ6AU43S8YUK)]
+4. Clustering & Retrieval [[__Completed__](https://www.coursera.org/account/accomplishments/certificate/RPSV54FU5VJY)]
 
 ## Advanced-Machine-Learning-Specialization
 _by National Research University Higher School of Economics_
@@ -18,3 +18,10 @@ _by National Research University Higher School of Economics_
 5. Deep Learning in Computer Vision
 6. Natural Language Processing
 7. Addressing Large Hadron Collider Challenges by Machine Learning
+
+## Mathematics-for-Machine-Learning-Specialization
+_by Imperial College London_
+
+1. Linear Algebra
+2. Multivariate Calculus
+3. Principal Component Analysis
