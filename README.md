@@ -23,5 +23,5 @@ _by National Research University Higher School of Economics_
 _by Imperial College London_
 
 1. Linear Algebra [[__Completed__](https://www.coursera.org/account/accomplishments/certificate/LRJJTNR5T5AP)]
-2. Multivariate Calculus
+2. Multivariate Calculus [[__Completed__](https://www.coursera.org/account/accomplishments/certificate/N4NBA5KJZCX2)]
 3. Principal Component Analysis
