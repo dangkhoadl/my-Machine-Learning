@@ -1,13 +1,29 @@
 
 
-# Setting up AWS EC2 for Running Jupyter Notebook on GPU
+# Setting GPU on [https://www.floydhub.com/](https://www.floydhub.com/)
+- Activate conda env
 
+		cd to the local notebook dir
+		source activate py36
 
+- Install Floyd
+		
+		pip install -U floyd-cli
 
+- Login 
 
+		floyd login
 
+## Project
+- Create a project on [https://www.floydhub.com/](https://www.floydhub.com/)
+- Init a project
+	
+		floyd init <project-name>
 
+- Run GPU on notebook
 
+		floyd run --env keras --mode jupyter --gpu
 
-## Reference
-[https://medium.com/@margaretmz/setting-up-aws-ec2-for-running-jupyter-notebook-on-gpu-c281231fad3f](https://medium.com/@margaretmz/setting-up-aws-ec2-for-running-jupyter-notebook-on-gpu-c281231fad3f)
+- Stop a project
+	
+		floyd stop <project-name>
