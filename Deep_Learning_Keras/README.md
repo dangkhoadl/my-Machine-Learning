@@ -1,6 +1,7 @@
 
+# My notes for the course [Zero to Deep Learning™ with Python and Keras](https://www.udemy.com/zero-to-deep-learning/)
 
-# Setting GPU on [https://www.floydhub.com/](https://www.floydhub.com/)
+## Setting GPU on [https://www.floydhub.com/](https://www.floydhub.com/)
 - Activate conda env
 
 		cd to the local notebook dir
@@ -25,5 +26,5 @@
 		floyd run --env keras --mode jupyter --gpu
 
 - Stop a project
-	
+
 		floyd stop <project-name>
