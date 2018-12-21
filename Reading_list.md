@@ -6,3 +6,5 @@
 - [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html?fbclid=IwAR0xWpmv2IJesI1H4xgbrZSP4MEI8OX6MC_JTRWEp-XoO-DGpN0dmPpeJII)
 - [150 of the Best Machine Learning, NLP, and Python Tutorials](https://medium.com/machine-learning-in-practice/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78?fbclid=IwAR2V7p3CnQ6TmXmU1MPFXXdJ062_9D4b9Nhfgn8t8fsrTHM2A2p41PM2z9A)
 - [Recurrent Neural Networks for Language Processing](http://u.cs.biu.ac.il/~yogo/blackbox2018.pdf?fbclid=IwAR1wFm8FYVFpvewUjuvjSQ3VJ69t5WgLa_oYmXoX4MpZXtl3qn_zqSnrslI)
+- [A birds-eye view of optimization algorithms](http://fa.bianp.net/teaching/2018/eecs227at/?fbclid=IwAR1o7SEFo7a8SIj74_YySmXgBSRwmx01auKJvL3HrRAF40ovpZvu_6Mxo04)
+- [Papers with Code](https://paperswithcode.com/?fbclid=IwAR2uLTFOgFz6k6ZEym72gIA5lcLkkxGQbgAAuisNmzaHWJF1feQchSW-G4U)
