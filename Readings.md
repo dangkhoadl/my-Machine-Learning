@@ -11,6 +11,9 @@
 - [Recurrent Neural Networks for Language Processing](http://u.cs.biu.ac.il/~yogo/blackbox2018.pdf?fbclid=IwAR1wFm8FYVFpvewUjuvjSQ3VJ69t5WgLa_oYmXoX4MpZXtl3qn_zqSnrslI)
 - [A birds-eye view of optimization algorithms](http://fa.bianp.net/teaching/2018/eecs227at/?fbclid=IwAR1o7SEFo7a8SIj74_YySmXgBSRwmx01auKJvL3HrRAF40ovpZvu_6Mxo04)
 - [What Kagglers are using for Text Classification](https://mlwhiz.com/blog/2018/12/17/text_classification/?fbclid=IwAR3sYkAq2OpelN6KTMohDK2EgGt0A7UiSnU48QfEsyF967O_37vbDA-oeNA)
+- [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap?fbclid=IwAR26q4TRPAXWDlQWKi23F9Y_jfL_UmRlK3SLQwextMadlq1SFvFhMwNpF1w)
+- [Machine Translation Reading List](https://github.com/THUNLP-MT/MT-Reading-List?fbclid=IwAR0-m-vilmWQxk4ACu2Fcun8BsC8M7nZztBbZNC-cB2ILE_ejfmNlYQsxGk)
+- [The most important NLP highlights of 2018](https://github.com/omarsar/nlp_highlights?fbclid=IwAR3iKJ2cJYWHKlgNSKksVwYMD7DuZ1FTHlg5GjPjpfpek3NB5aP5DZnbcOs)
 
 ## Books
 - [Dive into Deep Learning](http://en.diveintodeeplearning.org/index.html)
