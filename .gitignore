@@ -1,5 +1,8 @@
+# login-key
+*.key
 
-large_datasets/
+# dataset
+*.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
