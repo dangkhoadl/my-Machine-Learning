@@ -1,3 +1,7 @@
+# Pytorch data
+.data
+
+# scala
 .metals
 
 # login-key
